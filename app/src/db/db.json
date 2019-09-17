@@ -1,0 +1,614 @@
+[
+    {
+        "g_w": "der Freund",
+        "s_w": "priatel"
+    },
+    {
+        "g_w": "die Familie",
+        "s_w": "rodina"
+    },
+    {
+        "g_w": "auch",
+        "s_w": "tiez"
+    },
+    {
+        "g_w": "aber",
+        "s_w": "ale"
+    },
+    {
+        "g_w": "neugierig",
+        "s_w": "zvedavy"
+    },
+    {
+        "g_w": "das Fräulein",
+        "s_w": "slecna"
+    },
+    {
+        "g_w": "wie",
+        "s_w": "ako"
+    },
+    {
+        "g_w": "heisen",
+        "s_w": "volat sa"
+    },
+    {
+        "g_w": "bitten",
+        "s_w": "prosit"
+    },
+    {
+        "g_w": "und",
+        "s_w": "a"
+    },
+    {
+        "g_w": "woher",
+        "s_w": "odkial"
+    },
+    {
+        "g_w": "kommen",
+        "s_w": "prist"
+    },
+    {
+        "g_w": "aber",
+        "s_w": "ale"
+    },
+    {
+        "g_w": "aus",
+        "s_w": "z"
+    },
+    {
+        "g_w": "Munchen",
+        "s_w": "Mnichov"
+    },
+    {
+        "g_w": "die Verzeihung",
+        "s_w": "prepacenie"
+    },
+    {
+        "g_w": "freuen",
+        "s_w": "potesit"
+    },
+    {
+        "g_w": "mich",
+        "s_w": "mna"
+    },
+    {
+        "g_w": "Prag",
+        "s_w": "Praha"
+    },
+    {
+        "g_w": "nein",
+        "s_w": "nie"
+    },
+    {
+        "g_w": "wo",
+        "s_w": "kde"
+    },
+    {
+        "g_w": "liegen",
+        "s_w": "lezat"
+    },
+    {
+        "g_w": "weit",
+        "s_w": "daleko"
+    },
+    {
+        "g_w": "von",
+        "s_w": "od"
+    },
+    {
+        "g_w": "von hier",
+        "s_w": "odtialto"
+    },
+    {
+        "g_w": "ja",
+        "s_w": "ano"
+    },
+    {
+        "g_w": "ziemlich",
+        "s_w": "znacny"
+    },
+    {
+        "g_w": "gehen",
+        "s_w": "ist"
+    },
+    {
+        "g_w": "wer",
+        "s_w": "kto"
+    },
+    {
+        "g_w": "das Mädchen",
+        "s_w": "dievca"
+    },
+    {
+        "g_w": "dort",
+        "s_w": "tam"
+    },
+    {
+        "g_w": "Hallo",
+        "s_w": "Ahoj"
+    },
+    {
+        "g_w": "danken",
+        "s_w": "dakovat"
+    },
+    {
+        "g_w": "gut",
+        "s_w": "dobry"
+    },
+    {
+        "g_w": "was",
+        "s_w": "co"
+    },
+    {
+        "g_w": "machen",
+        "s_w": "robit"
+    },
+    {
+        "g_w": "hier",
+        "s_w": "tu"
+    },
+    {
+        "g_w": "fahren",
+        "s_w": "cestovat"
+    },
+    {
+        "g_w": "die Schule",
+        "s_w": "skola"
+    },
+    {
+        "g_w": "auch",
+        "s_w": "tiez"
+    },
+    {
+        "g_w": "die Strasenbahn",
+        "s_w": "elektricka"
+    },
+    {
+        "g_w": "begleiten",
+        "s_w": "sprevadzat"
+    },
+    {
+        "g_w": "dich",
+        "s_w": "teba"
+    },
+    {
+        "g_w": "gestatten",
+        "s_w": "dovolit"
+    },
+    {
+        "g_w": "natürlich",
+        "s_w": "prirodzene"
+    },
+    {
+        "g_w": "noch",
+        "s_w": "este"
+    },
+    {
+        "g_w": "der Freund",
+        "s_w": "priatel"
+    },
+    {
+        "g_w": "studieren",
+        "s_w": "studovat"
+    },
+    {
+        "g_w": "eigentlich",
+        "s_w": "vlastne"
+    },
+    {
+        "g_w": "die Fachrichtung",
+        "s_w": "studijny odbor"
+    },
+    {
+        "g_w": "die Geschichte",
+        "s_w": "dejiny"
+    },
+    {
+        "g_w": "der Name",
+        "s_w": "meno"
+    },
+    {
+        "g_w": "wohnen",
+        "s_w": "byvat"
+    },
+    {
+        "g_w": "in",
+        "s_w": "v"
+    },
+    {
+        "g_w": "Graz",
+        "s_w": "Graz"
+    },
+    {
+        "g_w": "angenehm",
+        "s_w": "prijemny"
+    },
+    {
+        "g_w": "sagen",
+        "s_w": "povedat"
+    },
+    {
+        "g_w": "mein, meine, mein",
+        "s_w": "moj, moja, moje"
+    },
+    {
+        "g_w": "die Stadt",
+        "s_w": "mesto"
+    },
+    {
+        "g_w": "kennen",
+        "s_w": "poznat"
+    },
+    {
+        "g_w": "sehr",
+        "s_w": "velmi"
+    },
+    {
+        "g_w": "schön",
+        "s_w": "pekny"
+    },
+    {
+        "g_w": "die Medizin",
+        "s_w": "medicina"
+    },
+    {
+        "g_w": "die Ókonomie",
+        "s_w": "ekonomika"
+    },
+    {
+        "g_w": "die Informatik",
+        "s_w": "informatika"
+    },
+    {
+        "g_w": "gehe",
+        "s_w": "ist"
+    },
+    {
+        "g_w": "doch",
+        "s_w": "predsa"
+    },
+    {
+        "g_w": "groß",
+        "s_w": "velky"
+    },
+    {
+        "g_w": "vorstellen",
+        "s_w": "predstavit"
+    },
+    {
+        "g_w": "der Vater",
+        "s_w": "otec"
+    },
+    {
+        "g_w": "das Jahr",
+        "s_w": "rok"
+    },
+    {
+        "g_w": "alt",
+        "s_w": "stary"
+    },
+    {
+        "g_w": "arbeiten",
+        "s_w": "pracovat"
+    },
+    {
+        "g_w": "arbeiten als",
+        "s_w": "pracovat ako"
+    },
+    {
+        "g_w": "der Arbeit",
+        "s_w": "praca"
+    },
+    {
+        "g_w": "interessant",
+        "s_w": "zaujimavy"
+    },
+    {
+        "g_w": "oft",
+        "s_w": "casto"
+    },
+    {
+        "g_w": "spät",
+        "s_w": "casto"
+    },
+    {
+        "g_w": "das Haus",
+        "s_w": "dom"
+    },
+    {
+        "g_w": "zu Hause",
+        "s_w": "doma"
+    },
+    {
+        "g_w": "nach Hause",
+        "s_w": "domov"
+    },
+    {
+        "g_w": "wandern",
+        "s_w": "prechadzky"
+    },
+    {
+        "g_w": "gern",
+        "s_w": "rad"
+    },
+    {
+        "g_w": "basteln",
+        "s_w": "majstrovat"
+    },
+    {
+        "g_w": "viel",
+        "s_w": "vela"
+    },
+    {
+        "g_w": "die Mutter",
+        "s_w": "mama"
+    },
+    {
+        "g_w": "die Verkäuferin",
+        "s_w": "predavacka"
+    },
+    {
+        "g_w": "schwer",
+        "s_w": "tazky"
+    },
+    {
+        "g_w": "dann",
+        "s_w": "potom"
+    },
+    {
+        "g_w": "tun",
+        "s_w": "robit"
+    },
+    {
+        "g_w": "fleißig",
+        "s_w": "usilovny"
+    },
+    {
+        "g_w": "immer",
+        "s_w": "vzdy"
+    },
+    {
+        "g_w": "schaffen",
+        "s_w": "stihnut"
+    },
+    {
+        "g_w": "alles",
+        "s_w": "vsetko"
+    },
+    {
+        "g_w": "vähen",
+        "s_w": "sit"
+    },
+    {
+        "g_w": "stricken",
+        "s_w": "pliest"
+    },
+    {
+        "g_w": "die Geschwister",
+        "s_w": "surodenci"
+    },
+    {
+        "g_w": "der Bruder",
+        "s_w": "brat"
+    },
+    {
+        "g_w": "die Schwester",
+        "s_w": "sestra"
+    },
+    {
+        "g_w": "schon",
+        "s_w": "uz"
+    },
+    {
+        "g_w": "verheiratet",
+        "s_w": "zenaty vydata"
+    },
+    {
+        "g_w": "jetzt",
+        "s_w": "teraz"
+    },
+    {
+        "g_w": "bekommen",
+        "s_w": "dostat"
+    },
+    {
+        "g_w": "bald",
+        "s_w": "skoro"
+    },
+    {
+        "g_w": "das Kind",
+        "s_w": "dieta"
+    },
+    {
+        "g_w": "werden",
+        "s_w": "stat sa"
+    },
+    {
+        "g_w": "die Tante",
+        "s_w": "teta"
+    },
+    {
+        "g_w": "der Onkel",
+        "s_w": "ujo"
+    },
+    {
+        "g_w": "erst",
+        "s_w": "iba len najprv"
+    },
+    {
+        "g_w": "besuchen",
+        "s_w": "navstivit"
+    },
+    {
+        "g_w": "die Fachschule",
+        "s_w": "SOŠ"
+    },
+    {
+        "g_w": "ledig",
+        "s_w": "slobodny"
+    },
+    {
+        "g_w": "der Sport",
+        "s_w": "sport"
+    },
+    {
+        "g_w": "Sport treiben",
+        "s_w": "sportovat"
+    },
+    {
+        "g_w": "spielen",
+        "s_w": "hrat sa"
+    },
+    {
+        "g_w": "ganz",
+        "s_w": "celkom cely"
+    },    
+    {
+        "g_w": "nett",
+        "s_w": "mily"
+    },    
+    {
+        "g_w": "ein bißchen (neskl.)",
+        "s_w": "trochu"
+    },
+    {
+        "g_w": "zu",
+        "s_w": "prilis"
+    },
+    {
+        "g_w": "dick",
+        "s_w": "tucny"
+    },
+    {
+        "g_w": "manchmal",
+        "s_w": "niekedy"
+    },
+    {
+        "g_w": "finden",
+        "s_w": "najst"
+    },
+    {
+        "g_w": "langweilig",
+        "s_w": "nudny"
+    },
+    {
+        "g_w": "lernen",
+        "s_w": "ucit sa"
+    },
+    {
+        "g_w": "zwar",
+        "s_w": "sice"
+    },
+    {
+        "g_w": "leicht",
+        "s_w": "lahky"
+    },
+    {
+        "g_w": "faul",
+        "s_w": "lenivy"
+    },
+    {
+        "g_w": "also",
+        "s_w": "teda tak"
+    },
+    {
+        "g_w": "der Augenblich",
+        "s_w": "okamzik"
+    },
+    {
+        "g_w": "klein",
+        "s_w": "maly"
+    },
+    {
+        "g_w": "schlank",
+        "s_w": "stihly"
+    },
+    {
+        "g_w": "heiraten (4.p)",
+        "s_w": "zenit"
+    },
+    {
+        "g_w": "nämlich",
+        "s_w": "totiz"
+    },
+    {
+        "g_w": "die Zeit",
+        "s_w": "cas doba"
+    },
+    {
+        "g_w": "glauben",
+        "s_w": "domnievatsa verit"
+    },
+    {
+        "g_w": "jung",
+        "s_w": "mlady"
+    },
+    {
+        "g_w": "meinen",
+        "s_w": "mysliet"
+    },
+    {
+        "g_w": "der Sohn",
+        "s_w": "syn"
+    },
+    {
+        "g_w": "der Opa",
+        "s_w": "dedo"
+    },
+    {
+        "g_w": "der Schwager",
+        "s_w": "svagor"
+    },
+    {
+        "g_w": "der Neffe",
+        "s_w": "synovec"
+    },
+    {
+        "g_w": "der Cousin",
+        "s_w": "bratranec"
+    },
+    {
+        "g_w": "der Schwiegervater",
+        "s_w": "svokor"
+    },
+    {
+        "g_w": "die Eltern (len pl)",
+        "s_w": "rodicia"
+    },
+    {
+        "g_w": "die Tochter",
+        "s_w": "dcera"
+    },
+    {
+        "g_w": "die Oma",
+        "s_w": "babka"
+    },
+    {
+        "g_w": "die Schwagerin",
+        "s_w": "svagrina"
+    },
+    {
+        "g_w": "die Nichte",
+        "s_w": "neter"
+    },
+    {
+        "g_w": "die Cousine",
+        "s_w": "sesternica"
+    },
+    {
+        "g_w": "die Schwiegermutter",
+        "s_w": "svokra"
+    },
+    {
+        "g_w": "die Schwiegereltern",
+        "s_w": "svokrovci"
+    },
+    {
+        "g_w": "das Hobby",
+        "s_w": "hobby"
+    },
+    {
+        "g_w": "heute",
+        "s_w": "dnes"
+    }
+]

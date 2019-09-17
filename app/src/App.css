@@ -1,0 +1,39 @@
+@font-face {
+	font-family: Vladivostok;
+	src:
+		url(../src/components/vladivostok/regular.eot),
+		url(../src/components/vladivostok/regular.woff2) format("woff2"),
+		url(../src/components/vladivostok/regular.woff) format("woff"),
+		url(../src/components/vladivostok/regular.ttf) format("truetype");
+	font-style: normal;
+	font-weight: 300;
+}
+@font-face {
+	font-family: Vladivostok-bold;
+	src:
+		url(../src/components/vladivostok/bold.eot),
+		url(../src/components/vladivostok/bold.woff2) format("woff2"),
+		url(../src/components/vladivostok/bold.woff) format("woff"),
+		url(../src/components/vladivostok/bold.ttf) format("truetype");
+	font-style: normal;
+	font-weight: 600;
+}
+* {
+  font-family: Vladivostok!important;
+  text-align: center;
+}
+.h-40 {
+  height: 40vh;
+}
+.top-50-per {
+  top: 35%
+}
+.p-5-rem {
+  font-size: 3rem;
+}
+input[type=text] { 
+  text-align: center
+}
+.col-w {
+	color: #fff!important;
+}
