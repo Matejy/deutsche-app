@@ -22,6 +22,10 @@
   font-family: Vladivostok!important;
   text-align: center;
 }
+.bdc-b {
+	color: #007bff!important;
+	background-color: transparent!important;
+}
 .h-40 {
   height: 40vh;
 }

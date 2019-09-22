@@ -28,7 +28,7 @@
         "s_w": "ako"
     },
     {
-        "g_w": "heisen",
+        "g_w": "heißen",
         "s_w": "volat sa"
     },
     {
@@ -56,7 +56,7 @@
         "s_w": "z"
     },
     {
-        "g_w": "Munchen",
+        "g_w": "München",
         "s_w": "Mnichov"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
         "g_w": "Hallo",
-        "s_w": "Ahoj"
+        "s_w": "ahoj"
     },
     {
         "g_w": "danken",
@@ -201,7 +201,7 @@
     },
     {
         "g_w": "die Geschichte",
-        "s_w": "dejiny"
+        "s_w": "historia"
     },
     {
         "g_w": "der Name",
@@ -309,7 +309,7 @@
     },
     {
         "g_w": "spät",
-        "s_w": "casto"
+        "s_w": "neskoro"
     },
     {
         "g_w": "das Haus",
@@ -610,5 +610,109 @@
     {
         "g_w": "heute",
         "s_w": "dnes"
+    },
+    {
+        "g_w": "der Besuch, (e)s",
+        "s_w": "navsetva"
+    },
+    {
+        "g_w": "zu Besuch",
+        "s_w": "na navsteve"
+    },
+    {
+        "g_w": "die Frau",
+        "s_w": "zena"
+    },
+    {
+        "g_w": "der Tag, (e)s",
+        "s_w": "den"
+    },
+    {
+        "g_w": "entschuldigen",
+        "s_w": "ospravedlnit"
+    },
+    {
+        "g_w": "sprechen",
+        "s_w": "hovorit"
+    },
+    {
+        "g_w": "(das) Deutsch",
+        "s_w": "nemcina"
+    },
+    {
+        "g_w": "wünchen",
+        "s_w": "priat si"
+    },
+    {
+        "g_w": "der Herr (n)",
+        "s_w": "pan"
+    },
+    {
+        "g_w": "herzlich",
+        "s_w": "srdecny"
+    },
+    {
+        "g_w": "willkommen",
+        "s_w": "vitany"
+    },
+    {
+        "g_w": "herein",
+        "s_w": "dovnutra"
+    },
+    {
+        "g_w": "gleich",
+        "s_w": "hned"
+    },
+    {
+        "g_w": "wieder",
+        "s_w": "raz opat znovu"
+    },
+    {
+        "g_w": "holen (len 4.p)",
+        "s_w": "dojstpo priniest"
+    },
+    {
+        "g_w": "nur",
+        "s_w": "len"
+    },
+    {
+        "g_w": "(das) Brot, (e)s",
+        "s_w": "chlieb"
+    },
+    {
+        "g_w": "die Kaufhalle",
+        "s_w": "velkopredajna"
+    },
+    {
+        "g_w": "später",
+        "s_w": "neskor"
+    },
+    {
+        "g_w": "oder",
+        "s_w": "alebo"
+    },
+    {
+        "g_w": "warten (auf 4.p)",
+        "s_w": "cakat na"
+    },
+    {
+        "g_w": "stören",
+        "s_w": "rusit vyrusovat"
+    },
+    {
+        "g_w": "gar nicht",
+        "s_w": "vobec nie"
+    },
+    {
+        "g_w": "nehmen",
+        "s_w": "vziat"
+    },
+    {
+        "g_w": "der Platz, es",
+        "s_w": "miesto namestie"
+    },
+    {
+        "g_w": "anbieten",
+        "s_w": "ponuknut"
     }
 ]

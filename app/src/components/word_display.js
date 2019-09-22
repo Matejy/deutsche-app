@@ -12,7 +12,7 @@ export default class WordDisplay extends React.Component {
     }
     displayWords(event) {
         var data = require("../db/db.json");
-        var i = randomWord(152);
+        var i = randomWord(178);
         var word = [data[i].g_w, data[i].s_w];
         this.setState({word: word});
         this.props.onDisplayWords(word);        
